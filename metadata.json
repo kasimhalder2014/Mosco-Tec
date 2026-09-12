@@ -1,0 +1,8 @@
+{
+  "name": "Remix Smart Register",
+  "description": "PDS Nondrawal register and monthly ration card distribution manager with Served/Unserved tracking, Profile, Card Management, Reports, Excel Import/Export, and A4 Sheet Print.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

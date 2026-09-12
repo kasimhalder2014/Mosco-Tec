@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Register</string>
+    <string name="tab_distribution">Distribution</string>
+    <string name="tab_create">Create</string>
+    <string name="tab_report">Report</string>
+    <string name="tab_profile">Profile</string>
+    <string name="dialog_delete_title">Do you want to delete</string>
+</resources>
